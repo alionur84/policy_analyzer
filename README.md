@@ -1,6 +1,6 @@
 # KAZ — Kuzey Afrika Analiz Sistemi
 
-Türkiye Dışişleri Bakanlığı için geliştirilmiş karar destek prototipi. Kuzey Afrika ülkelerine (Mısır, Libya, Tunus, Fas, Cezayir) ilişkin Türkçe haber arşivini analiz eder; politika notlarıyla karşılaştırarak yapay zeka destekli raporlar üretir.
+Dış politika karar destek prototipi. Kuzey Afrika ülkelerine (Mısır, Libya, Tunus, Fas, Cezayir) ilişkin Türkçe haber arşivini analiz eder; politika notlarıyla karşılaştırarak yapay zeka destekli raporlar üretir.
 
 ---
 

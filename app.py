@@ -1,6 +1,6 @@
 """
-Kuzey Afrika Analiz Sistemi — v0.3
-Türkiye Dışişleri Bakanlığı Prototipi
+KAZ - Kuzey Afrika Analiz Sistemi — v0.1
+Dış Politika Karar Destek Sistemi
 """
 
 import re

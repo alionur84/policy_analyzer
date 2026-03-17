@@ -1,0 +1,43 @@
+# Streamlit secrets — API key ve şifre burada, asla commit etme
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env
+
+# Ortam değişkenleri
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ChromaDB (embedding veritabanı — büyük olabilir, yeniden üretilebilir)
+db/
+chroma/
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.tmp
+*.temp
